@@ -1,4 +1,4 @@
-FROM gitpod/workspace-full
+FROM gitpod/workspace-full:branch-upgrade-clang
 
 USER root
 # add your tools here
